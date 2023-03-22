@@ -60,5 +60,6 @@ function Home() {
 export default Home;
 
 const Container = styled.div`
- height= 100vh;
+  height: 100vh;
+  width: 100vw;
 `;

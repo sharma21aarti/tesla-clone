@@ -9,6 +9,7 @@ function Section({
   leftBtnText,
   rightBtnText,
 }) {
+  console.log(title, description, backgroundImg, leftBtnText, rightBtnText);
   return (
     <Wrap bgImage={backgroundImg}>
       <Fade bottom>
